@@ -1,10 +1,18 @@
-<!-- Heading title. PHIO -->
-<div style="text-align: center;"><h1>Dmitrii Barabanov</h1></div>
+#[Dmitrii Barabanov](https://github.com/xfides)
 
-<!-- Main menu. Links to corresponding sections -->
- # 
+###Information
+
+###Summary
  
- ##Information | Summary | Skills | Code examples | Experience | Education
+###Skills
+ 
+###Code examples
+ 
+###Experience
+ 
+###Education
+
+ 
 
 
 
@@ -131,3 +139,7 @@ Languages
 
 Russian – native,
 English – intermediate 
+
+
+
+ ### My Great Heading {#headId}
