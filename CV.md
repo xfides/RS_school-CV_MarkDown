@@ -1,11 +1,22 @@
-What should a Junior Developer Resume contain?
+<!-- Heading title. PHIO -->
+<div style="text-align: center;"><h1>Dmitrii Barabanov</h1></div>
 
-! Important: write your Resume in English if you can, if possible
+<!-- Main menu. Links to corresponding sections -->
+ # 
+ 
+ ##Information | Summary | Skills | Code examples | Experience | Education
 
-1. Who am I?
 
-First Name: 
-Last Name 
+
+
+
+
+
+Junior frontend developer curriculum vitae
+
+
+First Name: Dmitrii
+Last Name: Barabanov
 
 
 2. My contact Info 
