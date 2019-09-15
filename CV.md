@@ -1,70 +1,96 @@
-#[Dmitrii Barabanov](https://github.com/xfides) 
-
-__Date of Birth:__ _29th June 1989_, __Address:__ _Odessa, Ukraine_
-
-Languages
-
-Russian – native,
-English – intermediate 
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+<!-- PHIO + link to github profile -->
+# [Dmitrii Barabanov](https://github.com/xfides) 
 
 
-####[My contact Info](#My contact Info ) | [Summary](#Summary) | [Skills](#Skills) | [Code examples](#Code examples) | [Experience](#Experience) | [Education](#Education)
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+<!-- birth + Address -->
+__Date of Birth:__ _29th June 1989_, &nbsp;&nbsp; __Address:__ _Odessa, Ukraine_
 
-###My contact Info 
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+<!-- helper main menu (linking sections for navigation) -->
+### [My contact Info](#My-contact-Info) | [Summary](#Summary) | [Skills](#Skills) | [Code examples](#Code-examples) | [Experience](#Experience) | [Education](#Education) | [Languages](#Languages)
+
+<br/>
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+<!-- section / My contact Info / -->
+## My contact Info 
 
 key | value
------------- | -------------
+------------ | :---: 
 email | baradmitrij@yandex.ru
 skype  | xfides
 telegramm  | \@xfides
 phone  | +38(099)-713-96-55
 
-###Summary
- 
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+<!-- section  / Summary / -->
+## Summary
+
+<p align="justify"> 
 My goal is to be professional full-stack web-developer. If I can see whole IT-process, I can figure out and   use right decisions. I want to be part of team where people understand what they do. This team should take responsibility for their code. I believe such environment is very productive as for client, team and me. 
+</p>
  
-###Skills
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --> 
+<!-- section  / Skills / --> 
+## Skills
  
- 
- Skill	Experience, years	Level(Intern/Advanced/Expert)	Last used, year
- Programming Languages :	
-   
-   HTML/HTML5	Expert	Nowadays
- 	CSS/CSS3	Expert	Nowadays
- 	Bootstrap	Advanced	2 year	
- 	Javascript	Advanced	Nowadays
- 	Jquery	Advanced	Nowadays
- 	React	intern	1,5 year ago
- 	PHP	Intern	2 year ago
+#### Programming Languages:	
+skill | level | Last used
+:--------| :---: | --------:
+HTML/HTML5 |	Expert |	Nowadays
+CSS/CSS3 |	Expert |	Nowadays
+Bootstrap	| Advanced |	2 years ago	
+Javascript |	Advanced |	Nowadays
+Jquery |	Advanced	| 0.5 years ago
+React |	intern |	1,5 years ago
+PHP	| Intern |	2 years ago
  	
+#### Databases:	
+skill | level | Last used
+:--------| :---: | --------:
+MySql	| Intern | 1,5 years ago
+ 	 			
+#### Development Environments:
+skill | level | Last used
+:--------| :---: | --------:
+gulp |	intern |	3 years ago
+webpack  2 |	intern |	2,5 year ago
  			
-   Databases :	
-   MySql	Intern	1,5 year ago
- 	
+#### Version control tools:
+skill | level | Last used
+:--------| :---: | --------:	
+git	| Intern	|  Nowadays
  			
-   Development Environments :	
-   gulp	intern	2,5 years ago
- 	webpack 2	intern	2 year ago
+#### Defect & changes tracking tools:
+skill | level | Last used
+:--------| :---: | --------:	
+Chrome Developer Tools	| Advanced |	Nowadays
  			
-   Version control tools :	
-   git	Intern	1,5 year ago
+#### Operating systems :	
+skill | level | Last used
+:--------| :---: | --------:
+Windows	| Advanced |	Nowadays
  			
-   Defect & changes tracking tools :	
-   Chrome Developer Tools	Advanced	Nowadays
  			
-   Operating systems :	
-   Windows	Advanced	Nowadays
- 			
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --> 
+<!-- section  / Code examples / --> 
+## Code examples
+ 
+* [One of the my first project](https://cubeton.com.ua/cubeton/)
+* [My old portfolio since 2015 year](http://xfides.github.io/)
+* [Project from HTML Academy PHP Courses](https://github.com/xfides/83701-yeticave-1)  
+* [First experiment with React basics](https://codepen.io/xfides/pen/mZZOXQ) 
+
  
  
-###Code examples
  
- 
- insert links from github html projects
- 
- 
- 
-###Experience
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --> 
+<!-- section  / Experience / -->  
+## Experience
  
  
  Name of Employer: Balashikha’s  Multicable network (internet service Provider)
@@ -84,7 +110,9 @@ My goal is to be professional full-stack web-developer. If I can see whole IT-pr
   of process (W3C validation, bug fixes)
  
  
-###Education
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --> 
+<!-- section  / Education / --> 
+## Education
 
 
 Education and Certifications
@@ -107,3 +135,9 @@ Education 	Internet course HTML Academy “Professional PHP, level 1”
 Graduation date	 30.01.2018 – 07.03. 2018
 Obtained	Certificate with confirmation of completion of the course
  
+ 
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+<!-- section  / Languages / -->  
+## Languages
+* Russian – native,
+* English – intermediate 
